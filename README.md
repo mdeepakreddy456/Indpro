@@ -1,4 +1,4 @@
-# TaskManager 🚀
+# TaskManager 
 
 A clean, highly responsive MERN stack Kanban board designed to help users organize workflows and track tasks. It features secure email signups with 6-digit OTP verification, official Google OAuth 2.0 integration, native drag-and-drop mechanics, and a smooth, togglable light/dark theme.
 

@@ -1,0 +1,12 @@
+{
+  "name": "task-manager-root",
+  "version": "1.0.0",
+  "description": "Root scripts to run and build MERN Task Manager",
+  "scripts": {
+    "install-all": "npm install --prefix backend && npm install --prefix frontend",
+    "backend": "npm run dev --prefix backend",
+    "backend-prod": "npm start --prefix backend",
+    "frontend": "npm run dev --prefix frontend",
+    "frontend-build": "npm run build --prefix frontend"
+  }
+}
